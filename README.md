@@ -8,6 +8,6 @@ Free to use for any purpose but limited to source code.
  
 NuGet: [https://www.nuget.org/packages/Plugin.RLibrary/](https://www.nuget.org/packages/Plugin.RLibrary/)
  
-### Development feed (possibly instable)
+### Development feed
 
-Fell fre to create new ticket if you found any issue during work with this library or you have any new feature request.
+Fell free to create new ticket if you found any issue during work with this library or you have any new feature request.
